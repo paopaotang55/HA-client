@@ -23,18 +23,17 @@
 1. `json`: json 셀프 평가 포인트를 잘 작성한다
 2. `run`: 개발 환경이 에러 없이 잘 실행된다
 3. `eslint`: eslint 설정을 할 줄 안다
-4. `test`: 모든 테스트 케이스를 통과한다
-5. `directory`: 코드를 적절한 디렉토리 구조 설계와 파일 분리를 할 줄 안다.
-6. `readme`: 누구나 readme를 읽고 쉽게 개발 환경을 구동할 수 있어야 한다.
-7. `render_01`: 1번째 페이지를 그릴 줄 안다
-8. `render_02`: 2번째 페이지를 그릴 줄 안다
-9. `render_03`: 3번째 페이지를 그릴 줄 안다
-10. `render_04`: 4번째 페이지를 그릴 줄 안다
-11. `router`: react-router-dom 을 적절하게 적용하고 활용할 줄 안다
-12. `fetch`: API 통해 리소스를 서버에서 받아와 클라이언트에 렌더할 줄 안다
-13. `select_render`: select drop down 혹은 radio 버튼을 활용하여 todo, incomplete todo, complete todo 선택적으로 render 되게 한다
-14. `css`: 적절한 CSS 로 화면 배치 및 각 컴포넌트를 꾸밀 줄 안다
-15. `git`: 의미있는 git commit 으로 프로젝트를 관리할 줄 안다
+4. `directory`: 코드를 적절한 디렉토리 구조 설계와 파일 분리를 할 줄 안다.
+5. `readme`: 누구나 readme를 읽고 쉽게 개발 환경을 구동할 수 있어야 한다.
+6. `render_01`: 1번째 페이지를 그릴 줄 안다
+7. `render_02`: 2번째 페이지를 그릴 줄 안다
+8. `render_03`: 3번째 페이지를 그릴 줄 안다
+9. `render_04`: 4번째 페이지를 그릴 줄 안다
+10. `router`: react-router-dom 을 적절하게 적용하고 활용할 줄 안다
+11. `fetch`: API 통해 리소스를 서버에서 받아와 클라이언트에 렌더할 줄 안다
+12. `select_render`: select drop down 혹은 radio 버튼을 활용하여 todo, incomplete todo, complete todo 선택적으로 render 되게 한다
+13. `css`: 적절한 CSS 로 화면 배치 및 각 컴포넌트를 꾸밀 줄 안다
+14. `git`: 의미있는 git commit 으로 프로젝트를 관리할 줄 안다
 
 ## advanced
 

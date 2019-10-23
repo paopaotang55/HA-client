@@ -1,7 +1,8 @@
 {
   "bare_min": {
     "json": 0,
-    "setting": 0,
+    "run": 0,
+    "eslint": 0,
     "directory": 0,
     "readme": 0,
     "render_01": 0,

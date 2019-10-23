@@ -1,1 +1,0 @@
-# Code States Immersive Course Hiring Assessment Frontend Part
