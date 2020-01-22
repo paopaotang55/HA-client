@@ -1,28 +1,28 @@
 {
   "bare_min": {
-    "json": 0,
-    "run": 0,
-    "eslint": 0,
-    "directory": 0,
+    "json": 3,
+    "run": 3,
+    "eslint": 2,
+    "directory": 3,
     "readme": 0,
-    "render_01": 0,
-    "render_02": 0,
-    "render_03": 0,
-    "render_04": 0,
-    "router": 0,
-    "fetch": 0,
-    "select_render": 0,
-    "css": 0,
-    "git": 0
+    "render_01": 3,
+    "render_02": 3,
+    "render_03": 3,
+    "render_04": 3,
+    "router": 3,
+    "fetch": 3,
+    "select_render": 3,
+    "css": 3,
+    "git": 3
   },
   "advanced": {
-    "link": 0,
-    "back": 0,
+    "link": 3,
+    "back": 3,
     "deploy": 0,
-    "loading": 0,
-    "responsive": 0,
-    "posting": 0,
-    "reply": 0,
+    "loading": 1,
+    "responsive": 1,
+    "posting": 3,
+    "reply": 3,
     "env": 0
   }
 }
